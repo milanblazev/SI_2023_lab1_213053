@@ -1,0 +1,37 @@
+C:\Users\PC\SI_2023_lab1_213053>git log
+commit 6122eca0c9f3cf248379c267e711509c5e568cf4 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: milanblazev <108541692+milanblazev@users.noreply.github.com>
+Date:   Thu Apr 6 00:02:34 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit d53a256a7578a83ec8471f4aa44c60c315cfb0fd
+Merge: aaf1c8b e530055
+Author: milanblazev <108541692+milanblazev@users.noreply.github.com>
+Date:   Thu Apr 6 00:05:45 2023 +0200
+
+    Merge branch 'bug2'
+
+commit e5300558141b50365ba22f3094066eab51d8df71 (origin/bug2, bug2)
+Author: milanblazev <108541692+milanblazev@users.noreply.github.com>
+Date:   Thu Apr 6 00:00:36 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit aaf1c8b67fce97e15cb1b1cd362f1c835f0ac985 (origin/bug1, bug1)
+Author: milanblazev <108541692+milanblazev@users.noreply.github.com>
+Date:   Wed Apr 5 23:56:40 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 01859ed17498be4bb8c76b312ea65b7cc19d1891
+Author: milanblazev <108541692+milanblazev@users.noreply.github.com>
+Date:   Wed Apr 5 23:50:05 2023 +0200
+
+    Add java class
+
+commit 2e1b8d987cd6d93436cd2d5dd40488a308f540f6
+Author: milanblazev <108541692+milanblazev@users.noreply.github.com>
+Date:   Wed Apr 5 23:46:56 2023 +0200
+
+    Initial commit
